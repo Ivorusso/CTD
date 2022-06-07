@@ -36,18 +36,22 @@ cambiarTema.addEventListener("click", alternarColorTema);
 function obtenerDatosDelUsuario() {
   /* --------------- PUNTO 1: Escribe tu codigo a partir de aqui --------------- */
  const usuario = prompt("Nombre de Usuario")
- const usuarioEdad = parseInt(prompt("Año de Nacimiento"))
- const usuarioCiudad = prompt("Ciudad")
- const usuarioJs = prompt("Te interesaJs")
+ const edad = parseInt(prompt("Año de Nacimiento"))
+ const ciudad = prompt("Ciudad")
+ var devuelve;
+ var respuesta = confirm("Te Interesa JS?");
+ if (respuesta == true) {
+     devuelve = "Si";
+ } else {
+     devuelve = "No";
+ }
+ const fechaHoy = 2022
+  
 
- const anioActual = 2022
-
- nombreUsuario = datosPersona["nombre"] = usuario;
- edadUsuario = datosPersona["edad"] = anioActual - usuarioEdad;
- ciudadUsuario = datosPersona["ciudad"] = usuarioCiudad;
- javascriptUsuario = datosPersona["interesPorJs"] = usuarioJs;
-
-console.log (datosPersona)
+ datosPersona["nombre"] = usuario;
+ datosPersona["edad"] = fechaHoy - edad;
+ datosPersona["ciudad"] = ciudad;
+ datosPersona["interesPorJs"] = devuelve; 
 }
 
 function renderizarDatosUsuario() {
@@ -95,6 +99,5 @@ document.addEventListener('keydown', (event) => {
   if (event.key === "f") {
     sobreMi.removeAttribute("class");
   }
-  alert('presionaste la tecla ' +  event.key);
 });
 
