@@ -58,9 +58,9 @@ function renderizarDatosUsuario() {
   /* ------------------- NO TOCAR NI ELIMINAR ESTA FUNCION. ------------------- */
   obtenerDatosDelUsuario();
   /* --------------- PUNTO 2: Escribe tu codigo a partir de aqui --------------- */
-    const cardHeader = document.querySelector(".card-header")
-    cardHeader.innerHTML = '';
-    return cardHeader.innerHTML += `
+    const card = document.querySelector(".card-header")
+    card.innerHTML = '';
+    return card.innerHTML += `
     <h3>Nombre: <span id="#nombre">${datosPersona.nombre}</span></h3>
     <h3>Edad: <span id="#edad"> ${datosPersona.edad}</span>  </h3>
     <h3>Ciudad: <span id="#ciudad"> ${datosPersona.ciudad}</span></h3>
@@ -94,10 +94,10 @@ function alternarColorTema() {
 }
 
 /* --------------------- PUNTO 5: Escribe tu codigo aqui --------------------- */
-const sobreMi = document.querySelector("#sobre-mi")
+const eventoF = document.querySelector("#sobre-mi")
 document.addEventListener('keydown', (event) => {
   if (event.key === "f") {
-    sobreMi.removeAttribute("class");
+    eventoF.removeAttribute("class");
   }
 });
 
