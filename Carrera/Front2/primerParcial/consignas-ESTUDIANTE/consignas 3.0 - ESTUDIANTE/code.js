@@ -60,15 +60,13 @@ function renderizarDatosUsuario() {
   /* --------------- PUNTO 2: Escribe tu codigo a partir de aqui --------------- */
     const card = document.querySelector(".card-header")
     card.innerHTML = '';
-    return card.innerHTML += `
+    card.innerHTML += `
     <h3>Nombre: <span id="#nombre">${datosPersona.nombre}</span></h3>
     <h3>Edad: <span id="#edad"> ${datosPersona.edad}</span>  </h3>
     <h3>Ciudad: <span id="#ciudad"> ${datosPersona.ciudad}</span></h3>
     <h3>Interes en Javascript: <span id="#javascript"> ${datosPersona.interesPorJs}</span></h3>
      `
   }
-
-
 
 function recorrerListadoYRenderizarTarjetas() {
   /* ------------------ PUNTO 3: Escribe tu codigo desde aqui ------------------ */
