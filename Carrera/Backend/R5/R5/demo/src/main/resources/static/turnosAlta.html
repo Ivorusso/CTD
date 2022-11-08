@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Clinica Odontologica</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/post_turnos.js"></script>
+</head>
+<body>
+<div class="container">
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" href="/index.html">Menu</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/turnosList.html">Listar turnos</a>
+        </li>
+    </ul>
+    <div class="row">
+        <div class="col-sm-7" style="background-color:#e6fffa; padding:10px; border-radius:3px">
+            <h3>Agregar turno</h3>
+            <form id="add_new_turno">
+                <div class="form-group">
+                    <label class="control-label" for="fecha">Fecha:</label>
+                    <input type="date" class="form-control" id="fecha"
+                           placeholder="Ingrese la fecha"
+                           name="fecha" required></input>
+                </div>
+                <label class="control-label" for="fecha">Odontologo:</label>
+                <select class="form-control" name="odontologo" id="odontologoSelect" onchange="getSelectValueOdo();">
+                    <option value="0" selected="selected">Seleccione...</option>
+                </select>
+                <script>
+                    function getSelectValueOdo(){
+                    var selectedValueOdontologo = document.getElementById("odontologoSelect").value;
+                    console.log(selectedValueOdontologo);
+                    }
+                </script>
+                
+                <label class="control-label" for="fecha">Paciente:</label>
+                <select class="form-control" name="paciente" id="pacienteSelect" onchange="getSelectedValuePac();">
+                    <option value="0" selected="selected">Seleccione...</option>
+                </select>
+
+                <script>
+                    function getSelectedValuePac(){
+                    var selectedValuePac = document.getElementById("pacienteSelect").value;
+                    console.log(selectedValuePac);
+                    }
+                </script>
+
+                <button type="submit" class="btn btn-danger"
+                        id="btn-add-new-turno">Guardar</button>
+            </form>
+            <div id="response" style="display:none; margin-top:10px">
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

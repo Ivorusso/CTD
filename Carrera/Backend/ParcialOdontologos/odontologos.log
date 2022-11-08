@@ -631,3 +631,20 @@ INSERT INTO odontologos VALUES (?, ?, ?) [23505-214]
 [2022-08-23 21:26:17] [INFO ] [OdontologoH2:32] Se guardo el Odontologo: ivan matricula: C123
 [2022-08-23 21:26:17] [INFO ] [OdontologoH2:32] Se guardo el Odontologo: ivan2 matricula: D123
 [2022-08-23 21:26:17] [INFO ] [OdontologoH2:113] Se estan por mostrar todos los odontologos
+[2022-08-24 20:52:43] [INFO ] [OdontologoH2:53] Se elimino el odontologo cual matricula es: A123
+[2022-08-24 20:52:43] [INFO ] [OdontologoH2:32] Se guardo el Odontologo: ivan matricula: A123
+[2022-08-24 20:52:43] [INFO ] [OdontologoH2:75] Se esta buscando al odontologo cual matricula es: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:53] Se elimino el odontologo cual matricula es: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:75] Se esta buscando al odontologo cual matricula es: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:32] Se guardo el Odontologo: ivan matricula: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:75] Se esta buscando al odontologo cual matricula es: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:53] Se elimino el odontologo cual matricula es: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:32] Se guardo el Odontologo: ivan matricula: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:75] Se esta buscando al odontologo cual matricula es: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:53] Se elimino el odontologo cual matricula es: A123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:53] Se elimino el odontologo cual matricula es: B123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:53] Se elimino el odontologo cual matricula es: C123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:53] Se elimino el odontologo cual matricula es: D123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:32] Se guardo el Odontologo: ivan matricula: C123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:32] Se guardo el Odontologo: ivan2 matricula: D123
+[2022-08-24 20:54:10] [INFO ] [OdontologoH2:113] Se estan por mostrar todos los odontologos

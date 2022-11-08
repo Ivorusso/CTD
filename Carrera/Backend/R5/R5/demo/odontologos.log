@@ -1,0 +1,91 @@
+[2022-09-07 20:56:08] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-07 20:56:08] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-07 20:56:08] [INFO ] [DomicilioService:56] Se elimino el domicilio = 1
+[2022-09-07 20:58:32] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-07 20:58:32] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-07 20:58:32] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-07 20:58:32] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-07 20:59:31] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-07 20:59:31] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-07 20:59:31] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-07 20:59:31] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-07 20:59:45] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-07 20:59:45] [INFO ] [OdontologoService:51] Se actualizo el odontologo = Ivo
+[2022-09-07 20:59:45] [INFO ] [OdontologoService:57] Se elimino el odontologo = 1
+[2022-09-07 20:59:45] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-07 20:59:58] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-07 20:59:58] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-07 20:59:58] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-07 20:59:58] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-07 21:00:20] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-07 21:00:20] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-07 21:00:20] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-07 21:00:20] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-07 21:00:36] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-07 21:00:36] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-07 21:00:36] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-07 21:00:36] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-07 21:00:36] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-07 21:01:15] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-07 21:01:15] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-07 21:01:15] [INFO ] [DomicilioService:56] Se elimino el domicilio = 1
+[2022-09-07 21:01:15] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-07 21:02:34] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-07 21:02:34] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-07 21:02:34] [INFO ] [PacienteService:56] Se elimino el Paciente = 1
+[2022-09-07 21:02:34] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-07 21:02:34] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-07 21:02:34] [INFO ] [PacienteService:49] Se actualizo el Paciente = Ivo
+[2022-09-07 21:04:37] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:04:37] [INFO ] [TurnoService:49] Se actualizo el Turno = null Fecha = 2022-09-30
+[2022-09-07 21:04:37] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:04:37] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:05:06] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:05:06] [INFO ] [TurnoService:49] Se actualizo el Turno = null
+[2022-09-07 21:05:06] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:05:06] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:05:20] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:05:20] [INFO ] [TurnoService:49] Se actualizo el Turno = null Fecha = 2022-09-30
+[2022-09-07 21:05:20] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:05:20] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:05:20] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-07 21:05:51] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:05:51] [INFO ] [TurnoService:49] Se actualizo el Turno = null Fecha = 2022-09-30
+[2022-09-07 21:05:51] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:05:51] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:05:51] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-07 21:06:15] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:06:15] [INFO ] [TurnoService:49] Se actualizo el Turno = null Fecha = 2022-09-30
+[2022-09-07 21:06:15] [INFO ] [TurnoService:31] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:06:15] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:06:15] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-07 21:06:29] [INFO ] [TurnoService:32] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:06:29] [INFO ] [TurnoService:49] Se actualizo el Turno = null Fecha = 2022-09-30
+[2022-09-07 21:06:29] [INFO ] [TurnoService:32] Se creo el Turno = null Fecha = 2022-09-07
+[2022-09-07 21:06:29] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:06:29] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-07 21:07:00] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-07 21:07:00] [INFO ] [TurnoService:49] Se actualizo el turno para la  fecha = 2022-09-30
+[2022-09-07 21:07:00] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-07 21:07:00] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:07:00] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-07 21:07:21] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-07 21:07:21] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-07 21:07:21] [INFO ] [DomicilioService:56] Se elimino el domicilio = 1
+[2022-09-07 21:07:21] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-07 21:07:21] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-07 21:07:21] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-07 21:07:21] [INFO ] [PacienteService:56] Se elimino el Paciente = 1
+[2022-09-07 21:07:21] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-07 21:07:21] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-07 21:07:21] [INFO ] [PacienteService:49] Se actualizo el Paciente = Ivo
+[2022-09-07 21:07:21] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-07 21:07:21] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-07 21:07:21] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-07 21:07:21] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-07 21:07:21] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-07 21:07:21] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-07 21:07:21] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-07 21:07:21] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-07 21:07:21] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-07 21:07:21] [INFO ] [TurnoService:41] Se encontro el Turno = 1

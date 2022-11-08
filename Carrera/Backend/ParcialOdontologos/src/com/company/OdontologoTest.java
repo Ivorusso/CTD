@@ -3,10 +3,10 @@ import com.company.servicios.OdontologoService;
 import com.company.daos.OdontologoH2;
 import com.company.entidad.Odontologo;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 public class OdontologoTest {
-
 
     @Test
     public void puedoGuardarUnOdontologo(){

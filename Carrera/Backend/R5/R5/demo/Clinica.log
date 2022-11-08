@@ -1,0 +1,1458 @@
+[2022-09-07 21:33:29] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:35:25] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-07 21:38:02] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:38:15] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan Rodriguez Russo
+[2022-09-07 21:38:33] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-07 21:40:33] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-07 21:40:57] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:43:40] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:44:25] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:45:23] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:46:46] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:50:46] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:52:04] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:53:18] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-07 21:56:05] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-08 20:15:20] [INFO ] [PacienteService:31] Se creo el Paciente = ivan
+[2022-09-08 20:16:20] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-08 20:16:36] [INFO ] [PacienteService:31] Se creo el Paciente = ivan
+[2022-09-08 20:16:42] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-08 20:16:57] [INFO ] [PacienteService:31] Se creo el Paciente = ivan
+[2022-09-08 20:17:02] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-08 20:18:33] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-08 20:18:40] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-08 20:19:02] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-08 20:19:08] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-08 20:19:59] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-08 20:20:06] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:20:41] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-08 20:20:47] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:21:39] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = ivan Numero = 1234
+[2022-09-08 20:21:44] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-08 20:22:16] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = ivan Numero = 1234
+[2022-09-08 20:22:21] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-08 20:23:59] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-08 20:24:06] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:24:32] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-08
+[2022-09-08 20:24:38] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:28:23] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-08
+[2022-09-08 20:28:47] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 20:28:48] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-08 20:28:48] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 20:28:48] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-08 20:28:48] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:28:56] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 20:30:52] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 20:31:11] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-08 20:35:40] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 20:36:41] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-08 20:37:06] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-08 20:39:22] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-08 20:41:04] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 20:45:55] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-08
+[2022-09-08 20:46:04] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:48:34] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-08 20:48:39] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:48:54] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-08
+[2022-09-08 20:49:00] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:51:59] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 20:52:53] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-08
+[2022-09-08 20:53:16] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-08
+[2022-09-08 20:53:23] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:54:36] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-08 20:54:42] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:55:05] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-08 20:55:11] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-08 20:55:20] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-08 20:55:31] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-08 21:08:14] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-08 21:08:14] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-08 21:08:14] [INFO ] [DomicilioService:56] Se elimino el domicilio = 1
+[2022-09-08 21:08:14] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-08 21:08:14] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-08 21:08:14] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-08 21:08:14] [INFO ] [PacienteService:56] Se elimino el Paciente = 1
+[2022-09-08 21:08:14] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-08 21:08:14] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-08 21:08:14] [INFO ] [PacienteService:49] Se actualizo el Paciente = Ivo
+[2022-09-08 21:08:14] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-08 21:08:14] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-08 21:08:14] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-08 21:08:14] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-08 21:08:14] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-08 21:08:14] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 21:08:14] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-08 21:08:14] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-08 21:08:14] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-08 21:08:14] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-12 20:52:42] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-12 20:52:42] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-12 20:52:42] [INFO ] [DomicilioService:56] Se elimino el domicilio = 1
+[2022-09-12 20:52:42] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-12 20:52:42] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-12 20:52:42] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-12 20:52:43] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-12 20:52:43] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-12 20:52:43] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-12 20:52:43] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-12 20:52:43] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-12 20:52:43] [INFO ] [PacienteService:56] Se elimino el Paciente = 1
+[2022-09-12 20:52:43] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-12 20:52:43] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-12 20:52:43] [INFO ] [PacienteService:49] Se actualizo el Paciente = Ivo
+[2022-09-12 20:52:43] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-12 20:52:43] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-12 20:52:43] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-12 20:52:43] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-12 20:52:43] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-12 21:51:01] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-12 21:51:01] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-12 21:51:01] [INFO ] [DomicilioService:56] Se elimino el domicilio = 1
+[2022-09-12 21:51:01] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-12 21:51:01] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-12 21:51:01] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-12 21:51:01] [INFO ] [PacienteService:56] Se elimino el Paciente = 1
+[2022-09-12 21:51:01] [INFO ] [PacienteService:41] Se encontro el paciente = 1
+[2022-09-12 21:51:01] [INFO ] [PacienteService:31] Se creo el Paciente = Ivo
+[2022-09-12 21:51:01] [INFO ] [PacienteService:49] Se actualizo el Paciente = Ivo
+[2022-09-12 21:51:01] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-12 21:51:01] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-12 21:51:01] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-12 21:51:01] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-12 21:51:01] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-12 21:51:01] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-12 21:51:01] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-12 21:51:01] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-12 21:51:01] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-12 21:51:01] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-12 21:52:13] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-16 21:14:32] [INFO ] [PacienteService:31] Se creo el Paciente = ivan
+[2022-09-16 21:16:33] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = ivan Numero = 1234
+[2022-09-16 21:16:39] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-16 21:37:24] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-16 21:38:33] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-17 17:35:57] [INFO ] [PacienteService:32] Se creo el Paciente = IvoDomiciliado en = null
+[2022-09-17 17:35:57] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:35:57] [INFO ] [PacienteService:57] Se elimino el Paciente = 1
+[2022-09-17 17:35:57] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:35:57] [INFO ] [PacienteService:32] Se creo el Paciente = IvoDomiciliado en = null
+[2022-09-17 17:35:57] [INFO ] [PacienteService:50] Se actualizo el Paciente = Ivo
+[2022-09-17 17:39:45] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:39:51] [INFO ] [PacienteService:32] Se creo el Paciente = ivanDomiciliado en = null
+[2022-09-17 17:39:53] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:39:56] [INFO ] [PacienteService:50] Se actualizo el Paciente = ivan
+[2022-09-17 17:39:58] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:40:09] [INFO ] [PacienteService:50] Se actualizo el Paciente = ivan
+[2022-09-17 17:40:11] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:40:12] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:41:00] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:41:11] [INFO ] [PacienteService:50] Se actualizo el Paciente = ivan
+[2022-09-17 17:41:14] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:41:15] [INFO ] [PacienteService:42] Se encontro el paciente = 1
+[2022-09-17 17:43:54] [INFO ] [PacienteService:32] Se creo el Paciente = ivan Domiciliado en = null
+[2022-09-17 17:44:13] [INFO ] [PacienteService:50] Se actualizo el Paciente = ivan
+[2022-09-17 17:44:22] [INFO ] [PacienteService:57] Se elimino el Paciente = 1
+[2022-09-17 17:44:29] [INFO ] [PacienteService:57] Se elimino el Paciente = 2
+[2022-09-17 17:45:21] [INFO ] [PacienteService:32] Se creo el Paciente = ivan Domiciliado en = null
+[2022-09-17 17:45:23] [INFO ] [PacienteService:50] Se actualizo el Paciente = Juan
+[2022-09-17 17:45:31] [INFO ] [PacienteService:57] Se elimino el Paciente = 3
+[2022-09-17 17:45:34] [INFO ] [PacienteService:57] Se elimino el Paciente = 4
+[2022-09-17 17:46:07] [INFO ] [PacienteService:32] Se creo el Paciente = ivan Domiciliado en = null
+[2022-09-17 17:46:09] [INFO ] [PacienteService:50] Se actualizo el Paciente = Juan
+[2022-09-17 17:46:14] [INFO ] [PacienteService:57] Se elimino el Paciente = 4
+[2022-09-17 17:46:18] [INFO ] [PacienteService:57] Se elimino el Paciente = 1
+[2022-09-17 17:50:08] [INFO ] [PacienteService:32] Se creo el Paciente = null Domiciliado en = null
+[2022-09-17 17:50:17] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-17 17:51:00] [INFO ] [PacienteService:50] Se actualizo el Paciente = null
+[2022-09-17 17:51:21] [INFO ] [PacienteService:57] Se elimino el Paciente = 1
+[2022-09-17 17:56:04] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 17:56:41] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 17:56:52] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 17:57:06] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 17:58:54] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 17:59:22] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 17:59:32] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 17:59:38] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = null
+[2022-09-17 18:03:05] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-17 18:03:16] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-17 18:04:44] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-17 18:04:47] [INFO ] [TurnoService:55] Se elimino el Turno = 2
+[2022-09-17 18:04:52] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-17 18:05:12] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = null
+[2022-09-17 18:05:23] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-07-30
+[2022-09-17 18:05:30] [INFO ] [TurnoService:55] Se elimino el Turno = 3
+[2022-09-17 18:07:07] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-17 18:07:11] [INFO ] [OdontologoService:50] Se actualizo el odontologo = ivan
+[2022-09-17 18:07:15] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-19 20:38:11] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-19 20:38:54] [INFO ] [PacienteService:32] Se creo el Paciente = ivan Domiciliado en = null
+[2022-09-19 20:39:06] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 20:44:57] [INFO ] [DomicilioService:32] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:04:15] [INFO ] [DomicilioService:38] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:04:19] [INFO ] [PacienteService:37] Se creo el Paciente = ivan Domiciliado en = null
+[2022-09-19 21:05:50] [INFO ] [DomicilioService:38] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:06:35] [INFO ] [DomicilioService:38] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:07:05] [INFO ] [PacienteService:37] Se creo el Paciente = ivan Domiciliado en = null
+[2022-09-19 21:27:35] [INFO ] [PacienteService:37] Se creo el Paciente = ivan Domiciliado en = null
+[2022-09-19 21:27:45] [INFO ] [DomicilioService:38] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:28:34] [INFO ] [PacienteService:37] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@44f40d06
+[2022-09-19 21:29:45] [INFO ] [DomicilioService:38] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:29:47] [INFO ] [PacienteService:37] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@206d200e
+[2022-09-19 21:30:35] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-19 21:30:40] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-19 21:32:12] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:32:14] [INFO ] [PacienteService:33] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@101d8a39
+[2022-09-19 21:32:16] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-19 21:32:17] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-19 21:33:02] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:33:05] [INFO ] [PacienteService:33] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@40d3e837
+[2022-09-19 21:33:07] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-19 21:33:11] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-19 21:33:59] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:34:02] [INFO ] [PacienteService:33] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@27c56f9e
+[2022-09-19 21:34:08] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-19 21:35:01] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-19 21:35:05] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-19 21:35:37] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-19 21:35:38] [INFO ] [PacienteService:33] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@7f87a636
+[2022-09-19 21:35:40] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-19 21:35:42] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-20 21:47:43] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-20 21:47:52] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan Rodriguez Russo
+[2022-09-20 21:48:13] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-20 21:48:59] [INFO ] [PacienteService:33] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@5fd1d64e
+[2022-09-20 21:50:36] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-20 21:50:36] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-20 21:50:36] [INFO ] [DomicilioService:59] Se elimino el domicilio = 1
+[2022-09-20 21:50:36] [INFO ] [DomicilioService:46] Se encontro el Domicilio = 1
+[2022-09-20 21:50:36] [INFO ] [PacienteService:33] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-20 21:50:36] [INFO ] [PacienteService:43] Se encontro el paciente = 1
+[2022-09-20 21:50:36] [INFO ] [PacienteService:58] Se elimino el Paciente = 1
+[2022-09-20 21:50:36] [INFO ] [PacienteService:43] Se encontro el paciente = 1
+[2022-09-20 21:50:36] [INFO ] [PacienteService:33] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-20 21:50:36] [INFO ] [PacienteService:51] Se actualizo el Paciente = Ivo
+[2022-09-20 21:50:36] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-20 21:50:36] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-20 21:50:36] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-20 21:50:36] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-20 21:50:36] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-20 21:50:36] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-20 21:50:37] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-20 21:50:37] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-20 21:50:37] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-20 21:50:37] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-21 19:02:51] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-21 19:02:51] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-21 19:02:51] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-21 19:02:51] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-21 19:02:51] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-21 19:03:39] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-21 19:03:39] [INFO ] [TurnoService:49] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-21 19:03:39] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-21 19:03:39] [INFO ] [TurnoService:55] Se elimino el Turno = 1
+[2022-09-21 19:03:39] [INFO ] [TurnoService:41] Se encontro el Turno = 1
+[2022-09-21 19:11:05] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:14:00] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:15:02] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:15:36] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:16:49] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:19:32] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = Barrio Sta Celina Numero = 1234
+[2022-09-21 19:20:40] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:22:05] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:23:59] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:26:24] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan 
+[2022-09-21 19:36:21] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:39:56] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:40:57] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:42:07] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:44:03] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:44:24] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:45:31] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:45:51] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:48:40] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:50:11] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:51:15] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:54:34] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 19:58:21] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:03:10] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:03:10] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:04:57] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:04:57] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:07:22] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:07:22] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:08:51] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:08:51] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:11:11] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:11:11] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:12:35] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:12:35] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:13:59] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:13:59] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:15:12] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:15:12] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:16:48] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:16:48] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:19:53] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:19:53] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:20:36] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:20:36] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:23:06] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:23:06] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:24:21] [INFO ] [PacienteService:33] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@17ede30a
+[2022-09-21 20:26:50] [INFO ] [PacienteService:33] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:26:50] [INFO ] [DomicilioService:35] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:36:34] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:36:34] [INFO ] [PacienteService:43] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@7c1087dd
+[2022-09-21 20:36:39] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-21 20:36:39] [INFO ] [PacienteService:43] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@6798cdbd
+[2022-09-21 20:37:16] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 20:37:16] [INFO ] [PacienteService:43] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@7614eb04
+[2022-09-21 20:37:41] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:37:41] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:38:02] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 20:38:02] [INFO ] [PacienteService:43] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@55869275
+[2022-09-21 20:38:14] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 20:38:14] [INFO ] [PacienteService:43] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@2eb4b1b5
+[2022-09-21 20:38:20] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 20:38:20] [INFO ] [PacienteService:43] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@4ad75a4e
+[2022-09-21 20:40:08] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:40:08] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:41:12] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:41:12] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:42:21] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:42:21] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:43:05] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:43:05] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:45:48] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:49:52] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:50:56] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 20:50:56] [INFO ] [PacienteService:43] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@4f10c544
+[2022-09-21 20:52:22] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:53:18] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 20:53:18] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:54:42] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 20:54:42] [INFO ] [PacienteService:43] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:01:14] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:01:14] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:02:08] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:02:08] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:03:52] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:03:52] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:04:19] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:04:19] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@151216c7
+[2022-09-21 21:04:31] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:04:31] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@6c0f31b8
+[2022-09-21 21:07:12] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:07:12] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:09:10] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:09:10] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:09:34] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:09:34] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:13:17] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:13:17] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:14:52] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:14:52] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:16:59] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:16:59] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@7622829d
+[2022-09-21 21:17:15] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:17:15] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@40d3e837
+[2022-09-21 21:17:39] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:17:39] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@25acc2be
+[2022-09-21 21:18:25] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:18:25] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@239ec86f
+[2022-09-21 21:19:25] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:19:25] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@59ba28c8
+[2022-09-21 21:19:54] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:19:54] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:21:51] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:21:51] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@4090483d
+[2022-09-21 21:23:29] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:23:29] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@4090483d
+[2022-09-21 21:24:50] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:24:50] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@68bdba36
+[2022-09-21 21:25:51] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:25:51] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@3cf0e325
+[2022-09-21 21:26:07] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:26:07] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:26:31] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:26:31] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:26:53] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:26:53] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = dasdada Numero = 11111
+[2022-09-21 21:28:22] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:28:22] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@2865ed63
+[2022-09-21 21:28:36] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:28:36] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 11111
+[2022-09-21 21:30:31] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:30:31] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@491dce7a
+[2022-09-21 21:30:42] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = null
+[2022-09-21 21:32:29] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:32:29] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = proyecto.model.DomicilioDTO@5184e98c
+[2022-09-21 21:33:00] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:33:00] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-21 21:35:55] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:35:55] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-21 21:38:50] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:38:50] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-21 21:39:07] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:39:07] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=2, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-21 21:43:16] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-21 21:43:19] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-21 21:43:19] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=3, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-21 21:43:24] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-21 21:43:25] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-21 21:45:11] [INFO ] [TurnoService:31] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-21 21:46:57] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-21 21:46:57] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-21 21:48:18] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-21 21:57:52] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = dasdada Numero = 1234
+[2022-09-21 21:57:52] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='dasdada', numero='1234', localidad='dasdada', provincia='buenos aires'}
+[2022-09-21 21:58:10] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-22 10:41:27] [INFO ] [TurnoService:29] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:41:34] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:41:37] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:41:37] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:41:40] [INFO ] [TurnoService:29] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:43:40] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:43:41] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:43:41] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:43:43] [INFO ] [TurnoService:29] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:44:30] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:44:32] [INFO ] [DomicilioService:31] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:44:32] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:44:33] [INFO ] [TurnoService:29] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:50:23] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:50:25] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:50:25] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:50:27] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 10:50:27] [INFO ] [PacienteService:41] Se creo el Paciente = null Domiciliado en = null
+[2022-09-22 10:50:27] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:51:39] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:51:39] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:51:39] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:51:39] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:52:00] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:52:00] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:52:00] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:52:00] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:53:16] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:53:16] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:53:16] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:53:16] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 10:54:34] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 10:54:34] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 10:54:34] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 10:54:34] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 11:06:07] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:06:09] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:06:09] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:24:43] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:26:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:26:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:26:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:28:35] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:28:36] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:28:37] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:30:02] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:32:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:35:33] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:36:37] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:36:42] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:38:01] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:38:02] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:38:05] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:38:05] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:38:08] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:38:08] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:41:45] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:41:45] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:41:47] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:43:04] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:43:07] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:43:07] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:44:10] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:44:10] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:44:11] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:44:31] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:44:31] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:44:31] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:44:31] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 11:46:29] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:46:29] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:46:31] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:53:52] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:53:52] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:53:54] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:53:59] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 11:53:59] [INFO ] [PacienteService:41] Se creo el Paciente = null Domiciliado en = null
+[2022-09-22 11:53:59] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 11:54:16] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 11:54:16] [INFO ] [PacienteService:41] Se creo el Paciente = null Domiciliado en = null
+[2022-09-22 11:54:16] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-21
+[2022-09-22 11:57:16] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 11:57:18] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 11:57:18] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 11:57:25] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan perez
+[2022-09-22 11:57:25] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = null
+[2022-09-22 11:57:25] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 13:53:14] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 13:53:15] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 13:53:15] [INFO ] [DomicilioService:56] Se elimino el domicilio = 1
+[2022-09-22 13:53:15] [INFO ] [DomicilioService:43] Se encontro el Domicilio = 1
+[2022-09-22 13:53:15] [INFO ] [PacienteService:41] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 13:53:15] [INFO ] [PacienteService:51] Se encontro el paciente = 1
+[2022-09-22 13:53:15] [INFO ] [PacienteService:66] Se elimino el Paciente = 1
+[2022-09-22 13:53:15] [INFO ] [PacienteService:51] Se encontro el paciente = 1
+[2022-09-22 13:53:15] [INFO ] [PacienteService:41] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 13:53:15] [INFO ] [PacienteService:59] Se actualizo el Paciente = Ivo
+[2022-09-22 13:53:15] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivo
+[2022-09-22 13:53:15] [INFO ] [OdontologoService:50] Se actualizo el odontologo = Ivo
+[2022-09-22 13:53:15] [INFO ] [OdontologoService:56] Se elimino el odontologo = 1
+[2022-09-22 13:53:15] [INFO ] [OdontologoService:42] Se encontro el odontologo = 1
+[2022-09-22 13:53:15] [INFO ] [OdontologoService:31] Se creo el odontologo = ivo
+[2022-09-22 13:53:15] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 13:53:15] [INFO ] [TurnoService:63] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-22 13:53:15] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 13:53:15] [INFO ] [TurnoService:69] Se elimino el Turno = 1
+[2022-09-22 13:53:15] [INFO ] [TurnoService:55] Se encontro el Turno = 1
+[2022-09-22 13:53:44] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-22 13:53:59] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 13:53:59] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 13:54:08] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge Perez
+[2022-09-22 13:54:08] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Rodriguez Domiciliado en = null
+[2022-09-22 13:54:08] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 13:56:43] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 13:56:43] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 13:56:45] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 13:56:53] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan perez
+[2022-09-22 13:56:53] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = null
+[2022-09-22 13:56:53] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:03:53] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:03:53] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:03:54] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:03:54] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:03:55] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:03:55] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=3, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:03:58] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:03:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:03:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:04:09] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan perez
+[2022-09-22 14:04:09] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = null
+[2022-09-22 14:04:09] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 14:06:37] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:06:37] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:06:38] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:08:35] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:08:35] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:08:36] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:10:37] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:10:38] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:10:38] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:10:50] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:10:50] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:10:52] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:12:54] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:12:56] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:12:56] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:14:16] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:14:16] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:14:18] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:14:57] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:15:02] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:15:02] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:17:26] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:17:26] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:17:27] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:19:08] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:19:10] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:19:10] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:21:54] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:21:58] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:22:38] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:22:40] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:24:08] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:24:09] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:26:10] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:26:14] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:26:14] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:26:22] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan perez
+[2022-09-22 14:26:22] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-22 14:26:22] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = Domicilio{id=2, calle='null', numero='null', localidad='null', provincia='null'}
+[2022-09-22 14:26:22] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-08
+[2022-09-22 14:28:03] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:28:03] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:28:05] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:28:18] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan perez
+[2022-09-22 14:28:18] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:28:18] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:28:18] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:30:12] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:30:15] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:30:21] [INFO ] [OdontologoService:31] Se creo el odontologo = ivann
+[2022-09-22 14:30:24] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:30:24] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:30:38] [INFO ] [OdontologoService:31] Se creo el odontologo = ivann
+[2022-09-22 14:30:38] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:30:38] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:30:38] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:30:52] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:30:52] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:30:52] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo rodriguez russo Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:30:52] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:32:17] [INFO ] [OdontologoService:31] Se creo el odontologo = ivann
+[2022-09-22 14:32:19] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:32:19] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:32:24] [INFO ] [OdontologoService:31] Se creo el odontologo = ivann
+[2022-09-22 14:32:24] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:32:24] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:32:24] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:33:00] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:33:09] [INFO ] [OdontologoService:31] Se creo el odontologo = ivann
+[2022-09-22 14:33:09] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:33:09] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:33:09] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:35:39] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:35:42] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:35:42] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:37:12] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:37:12] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:37:14] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:37:24] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:37:24] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:37:24] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:37:24] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:45:27] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:45:29] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:45:29] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:45:38] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:47:42] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:47:44] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:47:44] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:47:54] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:48:01] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:48:01] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:48:01] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:48:01] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:49:40] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:49:42] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:49:42] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:49:49] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:50:01] [INFO ] [OdontologoService:31] Se creo el odontologo = juan
+[2022-09-22 14:50:01] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:50:01] [INFO ] [PacienteService:41] Se creo el Paciente = ivan rodriguez russo Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:50:01] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 14:53:06] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:53:06] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:53:17] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:58:37] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 14:58:37] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-22 14:58:37] [INFO ] [PacienteService:41] Se creo el Paciente = null Domiciliado en = Domicilio{id=1, calle='null', numero='null', localidad='null', provincia='null'}
+[2022-09-22 14:58:37] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 14:58:52] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 14:58:55] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 14:58:55] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 14:59:10] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 14:59:10] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-22 14:59:10] [INFO ] [PacienteService:41] Se creo el Paciente = null Domiciliado en = Domicilio{id=2, calle='null', numero='null', localidad='null', provincia='null'}
+[2022-09-22 14:59:10] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-07-31
+[2022-09-22 15:03:35] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:03:35] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:03:37] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:05:14] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:05:14] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:05:16] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:08:10] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:08:10] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:08:12] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:12:22] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:12:23] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:12:23] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:13:29] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:17:35] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:17:37] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:17:37] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:17:39] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:17:39] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:18:58] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:18:58] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:19:00] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:19:01] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:19:56] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:19:56] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:19:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:19:59] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:21:11] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:21:11] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:21:12] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:21:12] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:21:13] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:21:14] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:23:40] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:23:40] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:23:40] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:23:40] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:23:44] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:23:47] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-22 15:24:42] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:24:42] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:24:44] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:24:45] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:30:02] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:30:02] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:30:02] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:30:02] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:30:05] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:30:06] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:30:59] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:30:59] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:31:01] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:31:01] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:31:34] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:31:34] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:31:36] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:31:37] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:31:59] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:31:59] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:32:01] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:32:02] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:32:47] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:32:47] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:32:49] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:32:50] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:34:36] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:34:36] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:34:37] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:34:38] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:36:14] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:36:14] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:36:16] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:36:16] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:41:17] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:41:17] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:41:19] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:43:04] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:43:04] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:43:05] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:43:11] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:43:11] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:43:11] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:43:11] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 15:43:27] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:43:38] [INFO ] [OdontologoService:31] Se creo el odontologo = ivan
+[2022-09-22 15:43:38] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:43:38] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:43:38] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-24
+[2022-09-22 15:43:50] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 15:43:58] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 15:43:58] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:43:58] [INFO ] [PacienteService:41] Se creo el Paciente = ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:43:58] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-30
+[2022-09-22 15:44:12] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:44:12] [INFO ] [PacienteService:41] Se creo el Paciente = Yanko Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:44:22] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 15:44:22] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:44:22] [INFO ] [PacienteService:41] Se creo el Paciente = Yanko Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:44:22] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-27
+[2022-09-22 15:46:24] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-22 15:46:31] [INFO ] [OdontologoService:31] Se creo el odontologo = Luis
+[2022-09-22 15:46:44] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:46:44] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:46:52] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:46:52] [INFO ] [PacienteService:41] Se creo el Paciente = Luis Domiciliado en = Domicilio{id=2, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:47:01] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-22 15:47:01] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:47:01] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:47:01] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 15:47:13] [INFO ] [OdontologoService:31] Se creo el odontologo = Luis
+[2022-09-22 15:47:13] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:47:13] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:47:13] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 15:47:23] [INFO ] [OdontologoService:31] Se creo el odontologo = Luis
+[2022-09-22 15:47:23] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:47:23] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:47:23] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-30
+[2022-09-22 15:47:38] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-22 15:47:38] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:47:38] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:47:38] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-01
+[2022-09-22 15:47:53] [INFO ] [OdontologoService:31] Se creo el odontologo = Luis
+[2022-09-22 15:47:53] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:47:53] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:47:53] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-02
+[2022-09-22 15:48:54] [INFO ] [OdontologoService:31] Se creo el odontologo = Jorge
+[2022-09-22 15:48:54] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:48:54] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:48:54] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-03
+[2022-09-22 15:49:10] [INFO ] [OdontologoService:31] Se creo el odontologo = Luis
+[2022-09-22 15:49:10] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 1234
+[2022-09-22 15:49:10] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='falkner', numero='1234', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-22 15:49:10] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-06
+[2022-09-22 15:51:05] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 15:51:08] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 15:51:11] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:51:11] [INFO ] [PacienteService:41] Se creo el Paciente = Yanko Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:51:17] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 15:51:17] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 15:51:25] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 15:51:25] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-22 15:51:25] [INFO ] [PacienteService:41] Se creo el Paciente = null Domiciliado en = Domicilio{id=3, calle='null', numero='null', localidad='null', provincia='null'}
+[2022-09-22 15:51:25] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 19:13:43] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:13:43] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:13:44] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:13:49] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:13:49] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:13:49] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:13:49] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 19:17:29] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:17:31] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:17:31] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:18:17] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:24:19] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:24:21] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:24:21] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:25:31] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:25:31] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:25:33] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:25:34] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:26:29] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:26:29] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:26:31] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:26:32] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:26:50] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:26:50] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:26:50] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:26:50] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 19:29:57] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:29:57] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:29:59] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:29:59] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:32:04] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:32:04] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:32:06] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:32:07] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:32:50] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:32:51] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:32:53] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:32:53] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:35:29] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:35:29] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:35:31] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:35:32] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:38:46] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:38:46] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:38:48] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:38:48] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:39:01] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:39:01] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:39:01] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:39:01] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 19:40:58] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:40:58] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:41:00] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:41:01] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:41:11] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:41:11] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:41:11] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:41:11] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 19:41:51] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:41:51] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:41:52] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:41:53] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:42:14] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 19:42:14] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 19:42:14] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 19:42:14] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 20:01:08] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:01:19] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:01:19] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:01:23] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:01:23] [INFO ] [PacienteService:41] Se creo el Paciente = Juan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:01:47] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:01:47] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:01:48] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:01:48] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 20:11:43] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:11:43] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:11:45] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:11:49] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:12:37] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:12:37] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:12:40] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:12:43] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:13:48] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:13:48] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:13:49] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:13:55] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:15:09] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:15:09] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:15:11] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:15:12] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:15:25] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:15:25] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:15:25] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:15:25] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-21
+[2022-09-22 20:15:45] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:15:45] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:15:45] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:15:45] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 20:15:59] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:15:59] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:15:59] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:15:59] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-28
+[2022-09-22 20:16:16] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = dasdada Numero = 1234
+[2022-09-22 20:16:16] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=2, calle='dasdada', numero='1234', localidad='dasdada', provincia='buenos aires'}
+[2022-09-22 20:16:23] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:16:23] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:16:23] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:16:23] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 20:16:36] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:16:36] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:16:36] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:16:36] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-06
+[2022-09-22 20:16:43] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:16:43] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = dasdada Numero = 1234
+[2022-09-22 20:16:43] [INFO ] [PacienteService:41] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=2, calle='dasdada', numero='1234', localidad='dasdada', provincia='buenos aires'}
+[2022-09-22 20:16:43] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-04
+[2022-09-22 20:18:44] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:18:46] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:18:46] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:18:46] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:18:46] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:18:52] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:24:09] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:24:09] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:24:10] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:24:14] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:24:56] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:24:58] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:25:07] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:25:07] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:25:15] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:25:15] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:25:15] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:25:15] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 20:25:23] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:25:23] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:25:23] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:25:23] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-30
+[2022-09-22 20:25:29] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:25:29] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:25:29] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:25:29] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-05
+[2022-09-22 20:25:34] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:25:34] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:25:34] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:25:34] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-07
+[2022-09-22 20:26:50] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:26:50] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:26:52] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:26:54] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:27:01] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:27:01] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:27:01] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:27:01] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-10-08
+[2022-09-22 20:27:07] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:27:07] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:27:07] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:27:07] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 20:27:11] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:27:11] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:27:11] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:27:11] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 20:27:15] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:27:15] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:27:15] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:27:15] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-24
+[2022-09-22 20:27:20] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:27:20] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:27:20] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:27:20] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-27
+[2022-09-22 20:28:15] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:28:15] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:28:17] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:28:21] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:38:51] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:38:51] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:38:53] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:38:56] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:40:47] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:40:47] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:40:48] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:40:52] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:41:52] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:41:52] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:41:54] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:41:55] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:48:54] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:49:00] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:49:02] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:49:02] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:52:09] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:54:15] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 20:54:18] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 20:54:19] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:54:20] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:54:26] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 20:54:26] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:54:26] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:54:26] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 20:54:30] [INFO ] [OdontologoService:31] Se creo el odontologo = null
+[2022-09-22 20:54:30] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 20:54:30] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 20:54:30] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 21:00:05] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:00:05] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:00:07] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:00:12] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:02:57] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:02:57] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:02:59] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:03:02] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:03:50] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:03:50] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:03:51] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:03:55] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:05:13] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:05:13] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:05:15] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:05:18] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:07:51] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:07:51] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:07:53] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:07:57] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:18:17] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:18:17] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:18:19] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:18:21] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:19:43] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:19:43] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:19:45] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:19:49] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:24:00] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:26:04] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:26:04] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:26:06] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:26:09] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:26:24] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:26:24] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:26:24] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:26:24] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 21:26:35] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:26:35] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:26:35] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:26:35] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-24
+[2022-09-22 21:26:40] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:26:40] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:26:40] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:26:40] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-25
+[2022-09-22 21:26:44] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:26:44] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:26:44] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:26:44] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-26
+[2022-09-22 21:26:49] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:26:49] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:26:49] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:26:49] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-27
+[2022-09-22 21:27:31] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:27:31] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:27:33] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:27:36] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:29:18] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:29:18] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:29:21] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:29:22] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:31:49] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:31:49] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:31:49] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:31:49] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:31:51] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:31:55] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:32:02] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:32:02] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:32:02] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:32:02] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 21:32:15] [INFO ] [OdontologoService:31] Se creo el odontologo = Yanko
+[2022-09-22 21:32:15] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:32:15] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:32:15] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 21:32:22] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:32:22] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:32:22] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:32:22] [INFO ] [TurnoService:45] Se creo el turno para la  fecha = 2022-09-30
+[2022-09-22 21:34:22] [INFO ] [OdontologoService:31] Se creo el odontologo = Juan
+[2022-09-22 21:39:59] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:39:59] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:40:01] [INFO ] [OdontologoService:31] Se creo el odontologo = Juan
+[2022-09-22 21:40:04] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:40:12] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:40:12] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:40:12] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:40:12] [INFO ] [TurnoService:42] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 21:45:51] [INFO ] [OdontologoService:31] Se creo el odontologo = Ivan
+[2022-09-22 21:45:51] [INFO ] [DomicilioService:33] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 21:45:51] [INFO ] [PacienteService:41] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 21:45:51] [INFO ] [TurnoService:42] Se creo el turno para la  fecha = 2022-09-30
+[2022-09-22 21:59:06] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:05:07] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:06:09] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:08:44] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:08:44] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:08:44] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:08:44] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:08:44] [INFO ] [PacienteService:65] Se actualizo el Paciente = Ivo
+[2022-09-22 22:08:44] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivo
+[2022-09-22 22:08:44] [INFO ] [OdontologoService:54] Se actualizo el odontologo = Ivo
+[2022-09-22 22:08:44] [INFO ] [OdontologoService:32] Se creo el odontologo = ivo
+[2022-09-22 22:08:44] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:08:44] [INFO ] [TurnoService:64] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-22 22:08:44] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:24:31] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:24:31] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:24:31] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:24:31] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:24:31] [INFO ] [PacienteService:65] Se actualizo el Paciente = Ivo
+[2022-09-22 22:24:31] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivo
+[2022-09-22 22:24:31] [INFO ] [OdontologoService:54] Se actualizo el odontologo = Ivo
+[2022-09-22 22:24:31] [INFO ] [OdontologoService:32] Se creo el odontologo = ivo
+[2022-09-22 22:24:31] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:24:31] [INFO ] [TurnoService:64] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-22 22:24:31] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:27:00] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:27:00] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:27:00] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:27:33] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:27:33] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:29:01] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:29:01] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:31:18] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:31:18] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:31:31] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:31:31] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:34:14] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:34:14] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:34:14] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:34:14] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:34:14] [INFO ] [PacienteService:65] Se actualizo el Paciente = Ivo
+[2022-09-22 22:34:14] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivo
+[2022-09-22 22:34:14] [INFO ] [OdontologoService:54] Se actualizo el odontologo = Ivo
+[2022-09-22 22:34:14] [INFO ] [OdontologoService:32] Se creo el odontologo = ivo
+[2022-09-22 22:34:14] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:34:14] [INFO ] [TurnoService:64] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-22 22:34:14] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:36:17] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:36:17] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:36:17] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-22 22:36:17] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = Domicilio{id=3, calle='null', numero='null', localidad='null', provincia='null'}
+[2022-09-22 22:36:17] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:36:17] [INFO ] [PacienteService:65] Se actualizo el Paciente = Ivo
+[2022-09-22 22:36:17] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivo
+[2022-09-22 22:36:17] [INFO ] [OdontologoService:54] Se actualizo el odontologo = Ivo
+[2022-09-22 22:36:17] [INFO ] [OdontologoService:32] Se creo el odontologo = ivo
+[2022-09-22 22:36:17] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:36:17] [INFO ] [TurnoService:64] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-22 22:36:17] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:37:59] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:37:59] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:37:59] [INFO ] [DomicilioService:44] Se encontro el Domicilio = 1
+[2022-09-22 22:37:59] [INFO ] [DomicilioService:59] Se elimino el domicilio = 1
+[2022-09-22 22:37:59] [INFO ] [DomicilioService:44] Se encontro el Domicilio = 1
+[2022-09-22 22:37:59] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-22 22:37:59] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = Domicilio{id=3, calle='null', numero='null', localidad='null', provincia='null'}
+[2022-09-22 22:37:59] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:37:59] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:37:59] [INFO ] [PacienteService:72] Se elimino el Paciente = 1
+[2022-09-22 22:37:59] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:37:59] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:37:59] [INFO ] [PacienteService:62] Se actualizo el Paciente = Ivo
+[2022-09-22 22:37:59] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivo
+[2022-09-22 22:37:59] [INFO ] [OdontologoService:51] Se actualizo el odontologo = Ivo
+[2022-09-22 22:37:59] [INFO ] [OdontologoService:43] Se encontro el odontologo = 1
+[2022-09-22 22:37:59] [INFO ] [OdontologoService:59] Se elimino el odontologo = 1
+[2022-09-22 22:37:59] [INFO ] [OdontologoService:43] Se encontro el odontologo = 1
+[2022-09-22 22:37:59] [INFO ] [OdontologoService:32] Se creo el odontologo = ivo
+[2022-09-22 22:37:59] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:37:59] [INFO ] [TurnoService:62] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-22 22:37:59] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:37:59] [INFO ] [TurnoService:54] Se encontro el Turno = 1
+[2022-09-22 22:37:59] [INFO ] [TurnoService:70] Se elimino el Turno = 1
+[2022-09-22 22:37:59] [INFO ] [TurnoService:54] Se encontro el Turno = 1
+[2022-09-22 22:38:39] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:38:39] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = AAA Numero = 123
+[2022-09-22 22:38:39] [INFO ] [DomicilioService:44] Se encontro el Domicilio = 1
+[2022-09-22 22:38:39] [INFO ] [DomicilioService:59] Se elimino el domicilio = 1
+[2022-09-22 22:38:39] [INFO ] [DomicilioService:44] Se encontro el Domicilio = 1
+[2022-09-22 22:38:39] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = null Numero = null
+[2022-09-22 22:38:39] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = Domicilio{id=3, calle='null', numero='null', localidad='null', provincia='null'}
+[2022-09-22 22:38:39] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:38:39] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:38:39] [INFO ] [PacienteService:72] Se elimino el Paciente = 1
+[2022-09-22 22:38:39] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:38:39] [INFO ] [PacienteService:44] Se creo el Paciente = Ivo Domiciliado en = null
+[2022-09-22 22:38:39] [INFO ] [PacienteService:62] Se actualizo el Paciente = Ivo
+[2022-09-22 22:38:39] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivo
+[2022-09-22 22:38:39] [INFO ] [OdontologoService:51] Se actualizo el odontologo = Ivo
+[2022-09-22 22:38:39] [INFO ] [OdontologoService:43] Se encontro el odontologo = 1
+[2022-09-22 22:38:39] [INFO ] [OdontologoService:59] Se elimino el odontologo = 1
+[2022-09-22 22:38:39] [INFO ] [OdontologoService:43] Se encontro el odontologo = 1
+[2022-09-22 22:38:39] [INFO ] [OdontologoService:32] Se creo el odontologo = ivo
+[2022-09-22 22:38:39] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:38:39] [INFO ] [TurnoService:62] Se actualizo el turno de la  fecha = 2022-09-30
+[2022-09-22 22:38:39] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-07
+[2022-09-22 22:38:39] [INFO ] [TurnoService:54] Se encontro el Turno = 1
+[2022-09-22 22:38:39] [INFO ] [TurnoService:70] Se elimino el Turno = 1
+[2022-09-22 22:38:39] [INFO ] [TurnoService:54] Se encontro el Turno = 1
+[2022-09-22 22:39:02] [INFO ] [PacienteService:54] Se encontro el paciente = 1
+[2022-09-22 22:45:25] [INFO ] [OdontologoService:32] Se creo el odontologo = Jorge
+[2022-09-22 22:45:36] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = dasdada Numero = 11111
+[2022-09-22 22:45:36] [INFO ] [PacienteService:44] Se creo el Paciente = Luis Domiciliado en = Domicilio{id=1, calle='dasdada', numero='11111', localidad='dasdada', provincia='buenos aires'}
+[2022-09-22 22:46:02] [INFO ] [OdontologoService:32] Se creo el odontologo = Jorge
+[2022-09-22 22:46:02] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = dasdada Numero = 11111
+[2022-09-22 22:46:02] [INFO ] [PacienteService:44] Se creo el Paciente = Luis Domiciliado en = Domicilio{id=1, calle='dasdada', numero='11111', localidad='dasdada', provincia='buenos aires'}
+[2022-09-22 22:46:02] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-22 22:47:47] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:47:49] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 22:47:49] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 22:47:57] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:47:57] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 22:47:57] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 22:47:57] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 22:48:25] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 22:48:25] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 22:48:27] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:48:35] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:48:35] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 22:48:35] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 22:48:35] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-22 22:49:15] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:49:17] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 22:49:17] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 22:49:25] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:49:25] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 22:49:25] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 22:49:25] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-22 22:51:39] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-22 22:51:39] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-22 22:51:39] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-22 22:51:39] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-23 14:22:23] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 14:22:23] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 14:22:24] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:22:29] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 14:31:23] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 14:31:27] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:35:11] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:35:12] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:38:46] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:38:47] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:40:05] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:40:06] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:41:32] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:41:33] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:42:35] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:42:39] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 14:43:24] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 14:43:26] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:44:33] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:44:39] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 14:49:01] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 14:49:04] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:49:07] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 14:49:07] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 14:49:11] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 14:49:11] [INFO ] [PacienteService:44] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 14:51:33] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 14:51:33] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 14:51:35] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:51:40] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 14:51:40] [INFO ] [PacienteService:44] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 14:51:45] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 14:53:51] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 14:53:55] [INFO ] [OdontologoService:32] Se creo el odontologo = yanko
+[2022-09-23 14:53:59] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 14:53:59] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 14:58:35] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 14:58:35] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 14:58:36] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 15:01:03] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 15:01:04] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:01:04] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:02:11] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:02:11] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:02:13] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 15:04:05] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 15:04:09] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:04:10] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:04:10] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:04:18] [INFO ] [OdontologoService:32] Se creo el odontologo = null
+[2022-09-23 15:04:18] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:04:18] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:04:18] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-23 15:07:36] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:07:36] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:07:38] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:07:45] [INFO ] [OdontologoService:32] Se creo el odontologo = null
+[2022-09-23 15:07:45] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:07:45] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:07:45] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-30
+[2022-09-23 15:10:43] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:10:46] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:10:46] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:10:56] [INFO ] [OdontologoService:32] Se creo el odontologo = null
+[2022-09-23 15:10:56] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:10:56] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:10:56] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-23 15:12:22] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:12:22] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:12:24] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:12:36] [INFO ] [OdontologoService:32] Se creo el odontologo = null
+[2022-09-23 15:12:36] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:12:36] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:12:36] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-23 15:13:43] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:13:45] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:13:45] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:13:52] [INFO ] [OdontologoService:32] Se creo el odontologo = null
+[2022-09-23 15:13:52] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:13:52] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:13:52] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-22
+[2022-09-23 15:14:35] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:14:35] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:14:37] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:17:16] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:17:19] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:17:19] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:17:28] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:17:28] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:17:28] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:17:28] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-23
+[2022-09-23 15:17:55] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 15:18:03] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:18:03] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:18:03] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:18:03] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-10-01
+[2022-09-23 15:18:08] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:18:08] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:18:08] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:18:08] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-10-02
+[2022-09-23 15:18:13] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:18:13] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:18:13] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:18:13] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-10-04
+[2022-09-23 15:18:17] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:18:17] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:18:18] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:18:18] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-10-06
+[2022-09-23 15:18:23] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:18:23] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:18:23] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:18:23] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-10-07
+[2022-09-23 15:18:41] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 15:18:41] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:18:41] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:18:41] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-29
+[2022-09-23 15:20:04] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 15:20:06] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:20:06] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:20:13] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:20:13] [INFO ] [PacienteService:44] Se creo el Paciente = Vero Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:20:18] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:26:59] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:26:59] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:28:43] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:28:43] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:28:45] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:30:01] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:30:03] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:30:03] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:33:20] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:33:20] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:33:22] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:39:00] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:39:03] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:39:03] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:40:33] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:40:33] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:40:34] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:43:03] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:43:06] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:43:06] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:43:46] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:43:46] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:43:48] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:44:36] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:44:38] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:44:38] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:45:27] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:45:27] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:45:28] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:50:17] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:50:19] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:50:19] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:51:04] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:51:04] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:51:06] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:52:09] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:52:11] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:52:11] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:53:04] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:53:04] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:53:11] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:56:46] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:56:48] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:56:48] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:57:30] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:57:30] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:57:32] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:59:02] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 15:59:04] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:59:04] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:59:56] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 15:59:56] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 15:59:58] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 16:04:19] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 16:04:20] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:04:20] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:04:57] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:04:57] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:04:58] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 16:06:25] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:06:25] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:06:27] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 16:08:29] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:08:29] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:09:05] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 16:10:24] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:10:24] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:10:26] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 16:10:45] [INFO ] [OdontologoService:32] Se creo el odontologo = Yanko
+[2022-09-23 16:10:45] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:10:45] [INFO ] [PacienteService:44] Se creo el Paciente = Ivan Domiciliado en = Domicilio{id=1, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:10:45] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-30
+[2022-09-23 16:11:43] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:11:43] [INFO ] [PacienteService:44] Se creo el Paciente = Carlos Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:11:48] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 16:12:02] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 16:12:02] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:12:02] [INFO ] [PacienteService:44] Se creo el Paciente = Carlos Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:12:02] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-24
+[2022-09-23 16:12:07] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 16:12:07] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:12:07] [INFO ] [PacienteService:44] Se creo el Paciente = Carlos Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:12:07] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-25
+[2022-09-23 16:12:14] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 16:12:14] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:12:14] [INFO ] [PacienteService:44] Se creo el Paciente = Carlos Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:12:14] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-26
+[2022-09-23 16:12:19] [INFO ] [OdontologoService:32] Se creo el odontologo = Ivan
+[2022-09-23 16:12:19] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-23 16:12:19] [INFO ] [PacienteService:44] Se creo el Paciente = Carlos Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-23 16:12:19] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-26
+[2022-09-26 21:08:59] [INFO ] [OdontologoService:32] Se creo el odontologo = Jorge
+[2022-09-26 21:09:10] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = dasdada Numero = 11111
+[2022-09-26 21:09:10] [INFO ] [PacienteService:44] Se creo el Paciente = Jorge Domiciliado en = Domicilio{id=1, calle='dasdada', numero='11111', localidad='mar del plata ', provincia='buenos aires'}
+[2022-09-26 21:11:51] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-26 21:11:51] [INFO ] [PacienteService:44] Se creo el Paciente = Carlos Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-26 21:12:21] [INFO ] [OdontologoService:32] Se creo el odontologo = Jorge
+[2022-09-26 21:12:21] [INFO ] [DomicilioService:34] Se Creo el Domicilio en la calle = falkner Numero = 124
+[2022-09-26 21:12:21] [INFO ] [PacienteService:44] Se creo el Paciente = Carlos Domiciliado en = Domicilio{id=2, calle='falkner', numero='124', localidad='sss', provincia='aaa'}
+[2022-09-26 21:12:21] [INFO ] [TurnoService:43] Se creo el turno para la  fecha = 2022-09-28
