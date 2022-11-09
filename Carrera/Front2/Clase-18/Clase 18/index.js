@@ -56,4 +56,3 @@ const botones = document.querySelectorAll("button");
 
 // Por cada boton, agregamos el listener para escuchar el evento 'click'.
 botones.forEach((boton) => boton.addEventListener("click", enviarMensaje));
-aaa
